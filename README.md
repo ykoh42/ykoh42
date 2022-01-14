@@ -1,5 +1,5 @@
-### [🔮42PSYCHIC](https://devfor.fun) - Find 42 correcteds
-- You don't have to wait correcteds to be unveiled.
+### [🔮42PSYCHIC](https://devfor.fun) - Find 42 correcteds!
+- **You don't have to wait correcteds(antonym of corrector) to be unveiled.**
 - Only in `42cursus`.
 - Link here https://devfor.fun
 
