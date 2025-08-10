@@ -1,7 +1,8 @@
-### [🔮42PSYCHIC](https://devfor.fun) - Find 42 correcteds!
-- **You don't have to wait correcteds(antonym of corrector) to be unveiled.**
-- Only in `42cursus`.
-- Link here https://devfor.fun
+## ⏰ LangGraph Lite Cron
+
+- A free, self-hosted alternative to [LangGraph Platform](https://docs.langchain.com/langgraph-platform)'s ***Cron Jobs*** with the same API interface (compatible with [`langgraph-sdk`](https://pypi.org/project/langgraph-sdk/)).
+- Designed for use with [Ambient Agents](https://blog.langchain.com/introducing-ambient-agents/) to enable scheduled and recurring tasks.
+- [GitHub Repository](https://github.com/ykoh42/langgraph-lite-cron)
 
 
 <!--
